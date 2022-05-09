@@ -8,6 +8,9 @@ Curious Learner and builder ;)
 * ✉️  You can contact me at [prabhpreetsingh.singh0203@gmail.com](mailto:prabhpreetsingh.singh0203@gmail.com)
 * 🧠  I'm learning ReactJS and Exploring Web3
 
+### About Me
+As a teenager at school, I always hated computers as a subject because of the monotonous curriculum and teaching. Now, here's I am... persuing Btech in Computer Science while exploring the power and beauty of it. how? I am very grateful that one of my mentors introduced me with few technical jargons like Blockchain , AWS, Web3 , AI etc. At that particular moment some spark incited within me to explore about these jargons. From that moment I started working in the field of computer science which taught me many things like • One should have to be patient so as to debug your code • Need to work in team if u wanna achieve wonders and make some awesome products • Sacrifice your selfishness to write good maintainable code for peer engineers. • Value your's as well as user's time by writing optimised code • One should communicate well with clients/managers to write and document the business requirements before moving on to the code • Try to be a problem solver for eg:- I created a store locator app in which a particular company may put all of their stores on Google map and users can easily locate and search them on Google Maps. • Never hesitate to google anything, overall it's your best teacher ;) Been learning this all while trying to make products using tech stack ( Html,Css, JavaScript,NodeJS,ReactJS,MongoDB,Docker,Red Hat Linux,C++,C,Python ) Web3--- coming soon ;) Want to look at some of my projects? you can check them out at https://github.com/prabhpreet-code
+
 ### Skills
 
 <p align="left">
