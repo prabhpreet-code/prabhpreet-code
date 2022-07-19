@@ -10,7 +10,7 @@ Curious Learner and builder ;)
 
 ### About Me
 As a teenager at school, I always hated computers as a subject because of the monotonous curriculum and teaching.
-
+<br/>
 Now, here's I am... persuing Btech in Computer Science while exploring the power and beauty of it. how? I am very grateful that one of my mentors introduced me with few technical jargons like Blockchain , AWS, Web3 , AI etc. At that particular moment some spark incited within me to explore about these jargons. From that moment I started working in the field of computer science which taught me many things like --
 
 • One should have to be patient so as to debug your code
