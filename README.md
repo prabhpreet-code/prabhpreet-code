@@ -34,7 +34,6 @@ Been learning this all while trying to make products using tech stack ( Html,Css
 <br/>
 Exploring and building on web3 ;)
 <br/>
-Want to look at some of my projects? you can check them out at https://github.com/prabhpreet-code
 
 ### Skills
 
