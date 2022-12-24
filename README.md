@@ -6,7 +6,7 @@ Curious Learner and builder ;)
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [prabhpreetsingh.singh0203@gmail.com](mailto:prabhpreetsingh.singh0203@gmail.com)
-* 🧠  I'm learning ReactJS and Exploring Web3
+* 🧠  I'm learning AWS and Exploring Web3
 
 ### About Me
 As a teenager at school, I always hated computers as a subject because of the monotonous curriculum and teaching.
@@ -30,9 +30,9 @@ Now, here's I am... persuing Btech in Computer Science while exploring the power
 • Never hesitate to google anything, overall it's your best teacher ;) 
 <br/>
 <br/>
-Been learning this all while trying to make products using tech stack ( Html,Css, JavaScript,NodeJS,ReactJS,MongoDB,Docker,Red Hat Linux,C++,C,Python )
+Been learning this all while trying to make products using tech stack ( Html,Css,JavaScript,NodeJS,ReactJS,NextJS,MongoDB,Docker,Red Hat Linux,C++,C,Python,Solidity,Hardhat,EtherJS )
 <br/>
-Web3--- coming soon ;)
+Exploring and building on web3 ;)
 <br/>
 Want to look at some of my projects? you can check them out at https://github.com/prabhpreet-code
 
